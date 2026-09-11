@@ -13,13 +13,13 @@ Bom:\
 1x 2.54mm 8 Pin Male Header (For connecting your screen)\
 8x 20cm Female-Female Jumper Wires (For connecting your screen off of the pcb)\
 4x M3x8mm Screws\
-4x M3x16mm Screws\
+4x M3x16mm Screws
 
-PCB schematic/
+PCB schematic
 <img width="440" height="251" alt="Screenshot 2026-09-09 113818" src="https://github.com/user-attachments/assets/f6bc2ed4-4c2e-4222-974c-86af35d4c55e" />
 
-PCB Design/
+PCB Design
 <img width="490" height="286" alt="Screenshot 2026-09-11 180345" src="https://github.com/user-attachments/assets/88d4dc34-31ca-44e0-bfc1-85f359f1848e" />
 
-PCB 3D view/
+PCB 3D view
 <img width="388" height="187" alt="Screenshot 2026-09-11 180443" src="https://github.com/user-attachments/assets/12094f83-e3dc-4de7-800d-337c12f53569" />
